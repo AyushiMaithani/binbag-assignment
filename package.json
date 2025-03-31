@@ -10,7 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^7.0.1",
+    "@reduxjs/toolkit": "^2.6.1",
     "@tailwindcss/vite": "^4.0.17",
+    "install": "^0.13.0",
+    "lucide-react": "^0.486.0",
+    "npm": "^11.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
